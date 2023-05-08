@@ -1,7 +1,10 @@
 ### Hi there 👋
+It's JohnJan here.
+
 - 🌱 I’m currently learning Kubernetes and Cloud Native
 - 🔭 I’m currently working on KubeVel
 - 📫 Reach me by: nuclear_wu@163.com
+
 <!--
 **nuclearwu/nuclearwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
