@@ -2,7 +2,7 @@
 It's JohnJan here.
 
 - 🌱 I’m currently learning Kubernetes and Cloud Native
-- 🔭 I’m currently working on KubeVel
+- 🔭 I’m currently working on KubeVela[https://github.com/kubevela]
 - 📫 Reach me by: nuclear_wu@163.com
 
 <!--
