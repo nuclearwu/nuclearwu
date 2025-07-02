@@ -1,7 +1,7 @@
 ### Hi there 👋
 It's JohnJan here.
 
-- 🌱 I’m currently learning Kubernetes and Cloud Native
+- 🌱 I’m currently learning Inference Engine
 - 🔭 I’m currently working on [vllm-ascend](https://github.com/vllm-project/vllm-ascend)
 - 📫 Reach me by: nuclear_wu@163.com
 
