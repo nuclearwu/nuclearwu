@@ -2,7 +2,7 @@
 It's JohnJan here.
 
 - 🌱 I’m currently learning Inference Engine
-- 🔭 I’m currently working on [vllm-ascend](https://github.com/vllm-project/vllm-omni)
+- 🔭 I’m currently working on [vllm-omni](https://github.com/vllm-project/vllm-omni)
 - 📫 Reach me by: nuclear_wu@163.com
 
 <!--
